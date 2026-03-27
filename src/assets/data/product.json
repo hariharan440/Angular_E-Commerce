@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Samsung Galaxy Z Flip 5",
+    "price": 1299.99,
+    "description": "Samsung's foldable smartphone with dynamic AMOLED display, 5G connectivity, and Flex Mode for multitasking.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9" },
+      { "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Samsung Official",
+    "stock": 8
+  },
+  {
+    "name": "Bose QuietComfort 45 Headphones",
+    "price": 329.95,
+    "description": "Industry-leading noise cancelling headphones with up to 24 hours battery life and comfortable over-ear design.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?q=80&w=1113&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose Store",
+    "stock": 12
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "price": 1199.00,
+    "description": "Apple's light and powerful MacBook Air with M2 chip, Retina display, and all-day battery life.",
+    "ratings": 5,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8" }
+    ],
+    "category": "Laptops",
+    "seller": "Apple Store",
+    "stock": 6
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 40",
+    "price": 560.50,
+    "description": "Comfortable running shoes with responsive cushioning and durable outsole for long distance runs.",
+    "ratings": 4.2,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff" }
+    ],
+    "category": "Sports",
+    "seller": "Nike Official",
+    "stock": 10
+  },
+  {
+    "name": "Sony Bravia 55-inch 4K OLED TV",
+    "price": 1499.99,
+    "description": "Sony OLED TV with 4K resolution, HDR support, and immersive sound for cinematic experience at home.",
+    "ratings": 4.9,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6" }
+    ],
+    "category": "Electronics",
+    "seller": "Sony Store",
+    "stock": 5
+  },
+  {
+    "name": "Fitbit Charge 6 Fitness Tracker",
+    "price": 179.95,
+    "description": "Advanced fitness tracker with heart rate monitoring, sleep tracking, and water-resistant design.",
+    "ratings": 4.5,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6" }
+    ],
+    "category": "Wearables",
+    "seller": "Fitbit Official",
+    "stock": 15
+  },
+  {
+    "name": "Canon EOS R6 Mirrorless Camera",
+    "price": 2499.00,
+    "description": "Professional-grade mirrorless camera with full-frame sensor, high-speed autofocus, and 4K video capture.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32" }
+    ],
+    "category": "Cameras",
+    "seller": "Canon Store",
+    "stock": 4
+  },
+  {
+    "name": "Logitech MX Master 3 Mouse",
+    "price": 99.99,
+    "description": "Advanced wireless mouse with ergonomic design, customizable buttons, and precision tracking for productivity.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "https://images.unsplash.com/photo-1722682810978-98d5a0412546?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+    ],
+    "category": "Accessories",
+    "seller": "Logitech Official",
+    "stock": 20
+  },
+  {
+  "name": "Apple Magic Keyboard",
+  "price": 129.99,
+  "description": "Sleek wireless keyboard with a rechargeable battery, responsive keys, and seamless connectivity for Mac and iPad devices.",
+  "ratings": 4.5,
+  "images": [
+    { "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=1170&auto=format&fit=crop" }
+  ],
+  "category": "Accessories",
+  "seller": "Apple Official",
+  "stock": 15
+},
+{
+  "name": "OnePlus 12 Smartphone",
+  "price": 799.99,
+  "description": "Flagship smartphone with Snapdragon processor, AMOLED display, fast charging, and advanced camera system for high performance and smooth experience.",
+  "ratings": 4.7,
+  "images": [
+    { "image": "https://images.unsplash.com/photo-1637190909375-85cd40d14161?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+  ],
+  "category": "Smartphones",
+  "seller": "OnePlus Official",
+  "stock": 25
+}
+]
